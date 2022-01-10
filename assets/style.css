@@ -1,0 +1,16 @@
+form {
+    margin: 0 auto; 
+    width: 540px;
+    text-align: center;
+    position: relative;
+    top: 175px;
+}
+
+select {
+    width: 475px;
+}
+
+input {
+    width: 465px;
+}
+
